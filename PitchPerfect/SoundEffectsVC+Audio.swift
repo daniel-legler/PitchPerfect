@@ -14,7 +14,6 @@ extension SoundEffectsVC: AVAudioPlayerDelegate {
     
     // MARK: Alerts
 
-    
     struct Alerts {
         static let DismissAlert = "Dismiss"
         static let RecordingDisabledTitle = "Recording Disabled"
